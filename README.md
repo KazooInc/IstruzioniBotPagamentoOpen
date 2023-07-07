@@ -1,1 +1,1 @@
-# IstruzioniBotPagamentoOpen
+# Foglietto Illustrativo
